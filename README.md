@@ -1,4 +1,4 @@
-# frontiers_response_figs_2018
+# frontiers_2018_response_figures
 
 Figures to supplement our responses to reviewers for "Modeling semantic encoding in a common neural representational space" (Van Uden & Nastase et al, 2018).
 
